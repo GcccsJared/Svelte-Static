@@ -1,1 +1,1 @@
-# Svelte-Static
+# gcccsjared.github.io
